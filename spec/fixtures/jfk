@@ -13,4 +13,4 @@ Transfer-Encoding: chunked
 Content-Type: application/json;charset=UTF-8
 Set-Cookie: BIGipServerpool_prd_chh_cf_tr_http=1958916763.20480.0000; path=/
 
-{"delay":"false","IATA":"JFK","state":"New York","name":"John A Kennedy International","weather":{"visibility":10.00,"weather":"Overcast","meta":{"credit":"NOAA's National Weather Service","updated":"5:51 PM Local","url":"http://weather.gov/"},"temp":"36.0 F (2.2 C)","wind":"Southeast at 9.2mph"},"ICAO":"KJFK","city":"New York","status":{"reason":"No known delays for this airport.","closureBegin":"","endTime":"","minDelay":"","avgDelay":"","maxDelay":"","closureEnd":"","trend":"","type":""}} 
+{"delay":"false","IATA":"JFK","state":"New York","name":"John F Kennedy International","weather":{"visibility":10.00,"weather":"Overcast","meta":{"credit":"NOAA's National Weather Service","updated":"5:51 PM Local","url":"http://weather.gov/"},"temp":"36.0 F (2.2 C)","wind":"Southeast at 9.2mph"},"ICAO":"KJFK","city":"New York","status":{"reason":"No known delays for this airport.","closureBegin":"","endTime":"","minDelay":"","avgDelay":"","maxDelay":"","closureEnd":"","trend":"","type":""}} 
